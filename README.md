@@ -1,4 +1,4 @@
-%%writefile README.md
+
 # Pipeline de Procesamiento de Lenguaje Natural (NLP) y Modelos de Lenguaje (LLMs)
 
 Este repositorio contiene la implementación práctica y teórica de un pipeline completo de procesamiento de texto, que abarca desde las técnicas clásicas de limpieza lingüística hasta la integración y optimización de modelos de lenguaje modernos (Transformers y LLMs).
