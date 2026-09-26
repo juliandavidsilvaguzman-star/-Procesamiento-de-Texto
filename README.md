@@ -8,7 +8,7 @@ Este desarrollo forma parte del laboratorio académico para el curso de Procesam
 **Docente:** Paul Alexander Diaz Montaña  
 **Integrantes:**
 Jhon Eduardo Tinjaca Cruz - jetinjaca@ucundinamarca.edu.co
-Julián Davied Silva Guzman - jetinjaca@ucundinamarca.edu.co  
+Julián Davied Silva Guzman - jdsilva@ucundinamarca.edu.co  
 **Fecha:** 26 de Septiembre de 2026  
 
 ---
