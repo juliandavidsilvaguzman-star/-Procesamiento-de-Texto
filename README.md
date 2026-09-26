@@ -65,4 +65,3 @@ python -m spacy download es_core_news_sm
 ## 📈 Resultados Obtenidos
 - **Clasificador Supervisado:** Se alcanzó una precisión promedio de **0.75** en validación cruzada y del **100%** de precisión sobre particiones balanceadas de prueba gracias al uso de representaciones vectoriales enriquecidas semánticamente.
 - **Robustez del Pipeline:** El código contiene bloques de seguridad (*defensive programming*) que evitan errores comunes de ejecución fuera de orden de las celdas en entornos interactivos de Jupyter/Google Colab.
-# -Procesamiento-de-Texto
