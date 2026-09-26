@@ -6,7 +6,9 @@ Este repositorio contiene la implementación práctica y teórica de un pipeline
 Este desarrollo forma parte del laboratorio académico para el curso de Procesamiento de Texto.
 
 **Docente:** Paul Alexander Diaz Montaña  
-**Alumno:** Julián Davied Silva Guzman  
+**Integrantes:**
+Jhon Eduardo Tinjaca Cruz - jetinjaca@ucundinamarca.edu.co
+Julián Davied Silva Guzman - jetinjaca@ucundinamarca.edu.co  
 **Fecha:** 26 de Septiembre de 2026  
 
 ---
